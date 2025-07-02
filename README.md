@@ -30,7 +30,6 @@ To **democratize** the creation, discovery, and monetization of AI agents throug
 -  **Workflow Builder:** Let users create multi-step automations by chaining AI agents and tools like Zapier or n8n.
 -  **Decentralized Identity (DID) Integration:** Add verified user and developer identities using Hedera DIDs for trusted interactions.
 
-Learn more: [How AgentVerse Works →](https://dorahacks.io/buidl/26102/#:~:text=How%20AgentVerse%20Works)
 
 ## ▶️ Watch the Demo
 
